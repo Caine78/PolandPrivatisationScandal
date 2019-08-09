@@ -1,2 +1,37 @@
-# PolandPrivatisationScandal
-I am trying to create the Report on the situation in Warsaw, Poland. There were few thousands of the buildings, that been returned to the people who were owners of that property. One small problem. Many buildings been returned to the people, that never had anything to with them. First thing that they did after repossesion, was raising a previous Council Tenants rent. x4. Quick debt and eviction order. Building sold and you cannot apparently reverse that operation. I am not saying the people shouldn't have their properties. However, the people that take over the building has nothing to do with the original owner. The court is making a decision based on few pieces of paper and it is making Council Tenants, Private Tenants, with the worst landlord on this planet. It is a pure corruption.
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Caine78/PolandPrivatisationScandal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Caine78/PolandPrivatisationScandal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
